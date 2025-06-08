@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+google-generativeai
+pytesseract
+PyPDF2
+langchain
+pandas
+mammoth
+langchain-google-genai
+openpyxl
+pytesseract
+pillow
+python-docx
+pdfplumber
+pymupdf
+docx2txt
+xhtml2pdf
