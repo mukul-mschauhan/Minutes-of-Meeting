@@ -51,10 +51,15 @@ Generate structured, professional, and downloadable **Minutes of Meeting (MoM)**
 
 ## 📂 File Structure
 ├── app2.py # Streamlit App
+
 ├── generate_mom.py # LangChain + Gemini Logic
+
 ├── formatting.py # Word export logic
+
 ├── .env # Stores your Gemini API Key
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
 
 
@@ -91,12 +96,10 @@ This project is open-source under the MIT License.
 Built by Mukul Chauhan, AI Strategist & Project Consultant.
 
 💡 Future Enhancements
+
 ✅ Upload multiple files together (multi-modal ingestion)
-
 ✅ Multi-language support for Hindi / regional scripts
-
 ✅ Dashboard with filters by Work Area, Assigned To
-
 ✅ PDF + Word export in 1 click
 
 
