@@ -1,6 +1,9 @@
 # Minutes-of-Meeting
 # 📋 AI-Powered Minutes of Meeting (MoM) Generator
 
+![image](https://github.com/user-attachments/assets/fce1722a-d166-4856-8627-9762ad07d762)
+
+
 Generate structured, professional, and downloadable **Minutes of Meeting (MoM)** from handwritten notes, PDFs, Word Docs, Text files, and Images — all powered by **Google Gemini 1.5 Flash** and **LangChain**.
 
 > ✅ Ideal for Construction, Civil, MEP, Electrical, and Project Management Teams  
